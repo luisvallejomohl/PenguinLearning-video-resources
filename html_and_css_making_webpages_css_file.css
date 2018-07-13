@@ -1,0 +1,35 @@
+a{
+color:blue;
+}
+a:visited{
+color:purple;
+}
+a:hover{
+color:black;
+}
+#thermodynamicsHeading{
+color:gold;
+font-size:30pt;
+}
+h2{
+color:pink;
+}
+#R, p span.R:not(#physics){
+text-decoration:overline;
+}
+.formula{
+font-family:Times New Roman;
+font-style:italic;
+font-weight:bold;
+}
+#backgroundCircle{
+background:rgb(250, 0, 0);
+height:100px;
+width:100px;
+border-radius:50%;
+}
+body{
+background-color:red;
+font-family:quebec;
+color:cyan;
+}
